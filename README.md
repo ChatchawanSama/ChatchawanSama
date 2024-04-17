@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Chatchawan Sama. I'm a new graduate looking for Software Engineer position :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchawanSama&layout=compact)
 
 ### Profile views counter 👁️‍🗨️
