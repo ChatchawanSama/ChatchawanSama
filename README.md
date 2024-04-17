@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChatchawanSama)](https://github.com/ChatchawanSama/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchawanSama&layout=compact)
 
 <!--
 **ChatchawanSama/ChatchawanSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
