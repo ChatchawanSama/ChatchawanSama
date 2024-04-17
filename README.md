@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchawanSama&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChatchawanSama)](https://github.com/ChatchawanSama/github-readme-stats)
-
 
 ### Profile views counter 👁️‍🗨️
 [![HitCount](https://hits.dwyl.com/ChatchawanSama/ChatchawanSama.svg?style=flat-square)](http://hits.dwyl.com/ChatchawanSama/ChatchawanSama)
