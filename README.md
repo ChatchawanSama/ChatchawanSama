@@ -5,11 +5,7 @@
 
 
 ### Profile views counter 👁️‍🗨️
-[![ChatchawanSama Rudnyi profile views](https://u8views.com/api/v1/github/profiles/ChatchawanSama/views/day-week-month-total-count.svg)](https://u8views.com/github/ChatchawanSama)
-
-
-[reactplaylist]:https://youtube.com/playlist?list=PLlYbsPJVZjBygXalKUVKkvFyHQ1NifIiW&si=pj2Rfx3ztZjb_c1P
-[graphqllist]: https://youtube.com/playlist?list=PLlYbsPJVZjByzzOLWl2n15n0uQ7m8loEh&si=0NXO3LQENlDOOqdK
+[![HitCount](https://hits.dwyl.com/ChatchawanSama/ChatchawanSama.svg?style=flat-square)](http://hits.dwyl.com/ChatchawanSama/ChatchawanSama)
 
 <!--
 **ChatchawanSama/ChatchawanSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
