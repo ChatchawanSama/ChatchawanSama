@@ -2,9 +2,6 @@
 #### My name is Chatchawan Sama. I'm a Software Engineer :)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchawanSama&layout=compact)
 
-### Profile views counter 👁️‍🗨️
-[![HitCount](https://hits.dwyl.com/ChatchawanSama/ChatchawanSama.svg?style=flat-square)](http://hits.dwyl.com/ChatchawanSama/ChatchawanSama)
-
 <!--
 **ChatchawanSama/ChatchawanSama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
